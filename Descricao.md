@@ -44,3 +44,4 @@ Os principais produtos são:
 - A quantidade de produtos em um pedido deve ser positiva.
 - Funcionários são alocados em uma sede específica.
 - Cada pedido deve ser cadastrado apenas por peça para melhor organização (ou seja, caso um cliente peça 2 da mesma blusa e 1 calça, devem ser efetuados dois pedidos diferentes).
+- O salário de um funcionário independe de seu departamento e de seu cargo, é baseado apenas em seu sesempenho
